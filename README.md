@@ -27,7 +27,7 @@
 
 | Лекции  | Семинары/практика | Дополнительно |
 | ------------- | ------------- | ------------- |
-| [Мещерин]((https://youtube.com/playlist?list=PLmSYEYYGhnBu1fFtnzKx-pycYbJnb0rOl) | Leetcode? |  |
+| [Мещерин](https://youtube.com/playlist?list=PLmSYEYYGhnBu1fFtnzKx-pycYbJnb0rOl) | Leetcode? |  |
 
 ## Алгоритмы и структуры данных + подготовка к прогзадачкам
 
