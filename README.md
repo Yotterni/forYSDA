@@ -32,6 +32,7 @@
 | [Шень -  Теория множеств](https://github.com/Yotterni/forYSDA/blob/main/%D0%A8%D0%B5%D0%BD%D1%8C.pdf) |  | Только главы 1.1-1.4 |
 | | [Виноградова, том 1](https://github.com/Yotterni/forYSDA/commit/0e2a44846404cf9f0883bbd597c35253596924e4) | главы 1-5 |
 | | [Листик по монотонности от МА](https://github.com/Yotterni/forYSDA/blob/main/%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%9C.%20%D0%90..pdf) |  |
+| | [Семы Димы Трушина](https://www.dropbox.com/sh/fswyhxqft9rehiy/AACCwH03bxijRuFiZq0TCycGa/3_calculus?dl=0&lst=) | Их всего 3 |
 
 ## Теорвер
 
