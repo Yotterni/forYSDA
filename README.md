@@ -28,7 +28,7 @@
 Нас интересуют только группы, кольца и поля - и лишь на уровне определений.
 | Материал | Примечание |
 | ------------- | ------------- |
-| [Лекции Аржанцева](https://teach-in.ru/course/algebra-arzhantsev) |  |
+| [Лекции Аржанцева](https://teach-in.ru/course/algebra-arzhantsev) | Только нужное, помним |
 | ["Теорема Абеля в задачах и решениях"](https://github.com/Yotterni/forYSDA/blob/main/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%90%D0%B1%D0%B5%D0%BB%D1%8F.pdf) | В коцне есть ответы |
 
 
