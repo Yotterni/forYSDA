@@ -70,3 +70,5 @@
 | [ФПМИ АиСД 2](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4) | [Leetcode](https://leetcode.com/) | [Яндексовский хендбукъ](https://academy.yandex.ru/handbook) |
 
 ## ML/DL
+
+## [Мотивация](https://academy.yandex.com/journal/nichego-nevozmozhnogo)
