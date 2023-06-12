@@ -60,7 +60,8 @@
 
 | Лекции  | Семинары/практика | Дополнительно |
 | ------------- | ------------- | ------------- |
-| [Мещерин](https://youtube.com/playlist?list=PLmSYEYYGhnBu1fFtnzKx-pycYbJnb0rOl) | Leetcode? |  |
+| [Мещерин](https://youtube.com/playlist?list=PLmSYEYYGhnBu1fFtnzKx-pycYbJnb0rOl) | [CSC, часть 1](https://stepik.org/course/7) | CSC - только для практики. |
+| | [CSC, часть 2](https://stepik.org/course/3206) | |
 
 ## Алгоритмы и структуры данных + подготовка к прогзадачкам
 
