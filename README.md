@@ -86,3 +86,8 @@
 ## ML/DL
 
 ## [Мотивация](https://academy.yandex.com/journal/nichego-nevozmozhnogo)
+
+## Unsorted полезное
+
+| [Диск с курсов Димы Трушина shad-prep](https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza?dl=0) |
+|  |
