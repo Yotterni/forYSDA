@@ -18,7 +18,7 @@
 
 | Лекции и семинары | Домашки | Дополнительно |
 | ------------- | ------------- | ------------- |
-| [Пилот ФКН - Дима Трушин](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) | [ДЗ 191](https://disk.yandex.ru/d/_C_H0y3izMtiDg) [ДЗ 201](https://disk.yandex.ru/d/6G8_ZNYLNah4xA?w=1) | Задачник Кострикина |
+| [Пилот ФКН - Дима Трушин](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) | [ДЗ 191](https://disk.yandex.ru/d/_C_H0y3izMtiDg) [ДЗ 201](https://disk.yandex.ru/d/9PDKsZC6Ofr5jg?w=1) | Задачник Кострикина |
 
 ## C++
 
@@ -90,4 +90,4 @@
 ## Unsorted полезное
 
 | [Диск с курсов Димы Трушина shad-prep](https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza?dl=0) |
-|  |
+| [ФКН-вики](http://wiki.cs.hse.ru/Wiki_%D0%A4%D0%9A%D0%9D/%D0%90%D1%80%D1%85%D0%B8%D0%B2) |
