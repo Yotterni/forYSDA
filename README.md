@@ -14,11 +14,11 @@
 
 ## Линал
 Линал - подарок судьбы: лекции, семинары и домашки к семинарам от Димы Трушина. Спасибо ФКН ВШЭ! В плейлисте на ютубе лежат записи лекций и семинаров,
-домашки - на яндекс-диске. Некоторые задачи в домашках взяты из задачника Кострикина. Ссылок на диски с домашками - две: в основном, пользуемся материалами для набора 19 года, тк он записан получше, но в нём нет семинаров до октября, которые восполняются плейлистом 21 года). Есть [листик](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FhKFwIFNdyU2L7Slc0JNna3VRfxdmUdKVQAtI0qzv8aj9s5j4PnlMicyvxG9i62Ocq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2Falgorithms.pdf&name=algorithms.pdf) со всеми алгоритмами, применяемыми в решении задач.
+домашки - на яндекс-диске. Некоторые задачи в домашках взяты из задачника Кострикина. Ссылок на диски с домашками - две: в основном, пользуемся материалами для набора 19 года, тк он записан получше, но в нём нет семинаров до октября, которые восполняются плейлистом 20 года). Есть [листик](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FhKFwIFNdyU2L7Slc0JNna3VRfxdmUdKVQAtI0qzv8aj9s5j4PnlMicyvxG9i62Ocq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2Falgorithms.pdf&name=algorithms.pdf) со всеми алгоритмами, применяемыми в решении задач.
 
 | Лекции и семинары | Домашки | Дополнительно |
 | ------------- | ------------- | ------------- |
-| [Пилот ФКН - Дима Трушин](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) | [ДЗ 191](https://disk.yandex.ru/d/_C_H0y3izMtiDg) [ДЗ 211](https://disk.yandex.ru/d/QlIhtHKYj5PUsw) | Задачник Кострикина |
+| [Пилот ФКН - Дима Трушин](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) | [ДЗ 201](https://disk.yandex.ru/d/9PDKsZC6Ofr5jg?w=1) [ДЗ 211](https://disk.yandex.ru/d/QlIhtHKYj5PUsw) | Задачник Кострикина |
 
 ## C++
 
