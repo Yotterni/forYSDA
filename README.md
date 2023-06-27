@@ -93,3 +93,4 @@
 
 | [Диск с курсов Димы Трушина shad-prep](https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza?dl=0) |
 | [ФКН-вики](http://wiki.cs.hse.ru/Wiki_%D0%A4%D0%9A%D0%9D/%D0%90%D1%80%D1%85%D0%B8%D0%B2) |
+| [Всеросы и регионы по информатике с 2015 года](https://contest.yandex.ru/roiarchive/)|
