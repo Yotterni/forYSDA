@@ -18,7 +18,7 @@
 
 | Лекции и семинары | Домашки | Дополнительно |
 | ------------- | ------------- | ------------- |
-| [Пилот ФКН - Дима Трушин](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) | [ДЗ 201](https://disk.yandex.ru/d/9PDKsZC6Ofr5jg?w=1) [ДЗ 211](https://disk.yandex.ru/d/QlIhtHKYj5PUsw) | Задачник Кострикина |
+| [Пилот ФКН 20/21](https://www.youtube.com/playlist?list=PLEwK9wdS5g0r9QiDrKGrYa8zg73OP7EBD) [Пилот ФКН 21/22](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rwUWBo-yNO6lfLCDk1rpRR)| [ДЗ 201](https://disk.yandex.ru/d/9PDKsZC6Ofr5jg?w=1) [ДЗ 211](https://disk.yandex.ru/d/QlIhtHKYj5PUsw) | Задачник Кострикина |
 
 ## C++
 
