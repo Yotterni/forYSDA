@@ -37,7 +37,7 @@
 | Лекции  | Семинары/практика | Примечание |
 | ------------- | ------------- | ------------- |
 | [Шапошников 1](https://www.youtube.com/playlistlist=PLcsjsqLLSfNDuleTFinPo1WY3V4EesuLO) | [Семы Скубачевского 1](https://youtube.com/playlist?list=PLthfp5exSWEpNdsBN_zWJbW4IYcJo8rG) | Примеры: Зорич, "Контрпримеры в анализе" |
-| [Шапошников 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfNDDkajOuefNtjVC2YmMjOsN) | [Семы Скубачевского 2](https://www.youtube.com/playlist?list=PLocvKxfon41XqGjhY6sWwd6BXrbx509T5) |  |
+| [Шапошников 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfNDDkajOuefNtjVC2YmMjOsN) | [Семы Скубачевского 2](https://www.youtube.com/playlist?list=PLocvKxfon41XqGjhY6sWwd6BXrbx509T5) | я глянул, немного и опчень приятно! |
 | [Шень -  Теория множеств](https://github.com/Yotterni/forYSDA/blob/main/%D0%A8%D0%B5%D0%BD%D1%8C.pdf) |  | Только главы 1.1-1.4 |
 | | [Виноградова, том 1](https://github.com/Yotterni/forYSDA/commit/0e2a44846404cf9f0883bbd597c35253596924e4) | главы 1-5 |
 | | [Листик по монотонности от МА](https://github.com/Yotterni/forYSDA/blob/main/%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%9C.%20%D0%90..pdf) |  |
