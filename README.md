@@ -43,6 +43,23 @@
 | | [Листик по монотонности от МА](https://github.com/Yotterni/forYSDA/blob/main/%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%9C.%20%D0%90..pdf) |  |
 | | [Семы Димы Трушина](https://www.dropbox.com/sh/fswyhxqft9rehiy/AACCwH03bxijRuFiZq0TCycGa/3_calculus?dl=0&lst=) | Их всего 3 |
 
+## Теорвер
+
+| Лекции  | Семинары/практика | Дополнительно |
+| ------------- | ------------- | ------------- |
+| [ФПМИ - годно?](https://www.youtube.com/playlist?list=PL4_hYwCyhAva472Tdti4x5qQ0lZfUKgaY) | ? |  |
+| [ФКН](http://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_2022/2023_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)) | есть всё, надо уточнить качество| |
+| [ФЭН ВШЭ](http://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0,_%D1%84%D1%8D%D0%BD,_2020-2021) | что-то странное, но вдруг | 1 семестр - тервер, второй - матстат|
+
+## Алгоритмы и структуры данных + подготовка к прогзадачкам
+
+| Лекции  | Семинары/практика | Дополнительно |
+| ------------- | ------------- | ------------- |
+| [ФПМИ АиСД 1](https://www.youtube.com/playlist?list=PL4_hYwCyhAvadJ5KZ4to2hWEjRvJnlNfv) | [Leetcode](https://leetcode.com/) | [Top 150 interview Leetcode](https://leetcode.com/studyplan/top-interview-150/) |
+| [ФПМИ АиСД 2](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4) | [Leetcode](https://leetcode.com/) | [Яндексовский хендбукъ](https://academy.yandex.ru/handbook) |
+
+### Дополнительные материалы - это есть в рекомендациях поступашек, но, по-моему, совершенно второстепенно и вообще не надо нафиг
+
 ## Алгебра
 Важны только задачи, лекции - справочный формализм.
 
@@ -67,23 +84,6 @@
 | ["Теорема Абеля в задачах и решениях"](https://github.com/Yotterni/forYSDA/blob/main/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%90%D0%B1%D0%B5%D0%BB%D1%8F.pdf) | В коцне есть ответы |
 
 
-
-## Вот тут я остановлюсь, пока не доделан шаг 2
-
-## Теорвер
-
-| Лекции  | Семинары/практика | Дополнительно |
-| ------------- | ------------- | ------------- |
-| [ФПМИ - годно?](https://www.youtube.com/playlist?list=PL4_hYwCyhAva472Tdti4x5qQ0lZfUKgaY) | ? |  |
-| [ФКН](http://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_2022/2023_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)) | есть всё, надо уточнить качество| |
-| [ФЭН ВШЭ](http://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0,_%D1%84%D1%8D%D0%BD,_2020-2021) | что-то странное, но вдруг | 1 семестр - тервер, второй - матстат|
-
-## Алгоритмы и структуры данных + подготовка к прогзадачкам
-
-| Лекции  | Семинары/практика | Дополнительно |
-| ------------- | ------------- | ------------- |
-| [ФПМИ АиСД 1](https://www.youtube.com/playlist?list=PL4_hYwCyhAvadJ5KZ4to2hWEjRvJnlNfv) | [Leetcode](https://leetcode.com/) | [Top 150 interview Leetcode](https://leetcode.com/studyplan/top-interview-150/) |
-| [ФПМИ АиСД 2](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4) | [Leetcode](https://leetcode.com/) | [Яндексовский хендбукъ](https://academy.yandex.ru/handbook) |
 
 ## ML/DL
 
